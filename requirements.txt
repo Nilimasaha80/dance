@@ -1,10 +1,7 @@
-mediapipe
-opencv-python
-numpy
-pyttsx3
 streamlit
 streamlit-webrtc
 mediapipe
-opencv-python-headless
 numpy
 pyttsx3
+av
+
